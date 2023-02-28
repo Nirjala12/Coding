@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> hii friends </title>
+<title> hii everyone </title>
 </head>
 <body>
 </body>
